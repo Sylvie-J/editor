@@ -1,5 +1,5 @@
 {
-  "name": "@lidojs/editor",
+  "name": "editor",
   "version": "0.0.9",
   "type": "module",
   "types": "dist/packages/editor/src/index.d.ts",
